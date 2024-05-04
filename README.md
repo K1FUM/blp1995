@@ -1,4 +1,4 @@
-# BLP(1995) Replication by Julia
+# BLP(1995) Replication in Julia
 
 I would like to express my sincere gratitude to Haozhan Gao ([link](https://www.haozhangao.net/home)) and Mark Ponder ([link](https://mark-ponder.com/)) for generously sharing their code, which served as a valuable reference for this work.
 
